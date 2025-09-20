@@ -1,0 +1,10 @@
+32 38 39 #UTIL: 133125, #minPer: 1.0, #maxPer: 443.0, #avgPer: 47.888104291146114
+36 38 39 #UTIL: 160610, #minPer: 1.0, #maxPer: 561.0, #avgPer: 45.30421377183967
+32 38 #UTIL: 173181, #minPer: 1.0, #maxPer: 385.0, #avgPer: 31.108680310515172
+170 38 39 #UTIL: 180403, #minPer: 1.0, #maxPer: 808.0, #avgPer: 43.644554455445544
+36 38 #UTIL: 199329, #minPer: 1.0, #maxPer: 470.0, #avgPer: 31.587961304192046
+170 38 #UTIL: 234038, #minPer: 1.0, #maxPer: 572.0, #avgPer: 29.07717678100264
+32 39 #UTIL: 278784, #minPer: 1.0, #maxPer: 113.0, #avgPer: 10.4259697256386
+32 #UTIL: 333420, #minPer: 1.0, #maxPer: 85.0, #avgPer: 5.812368143459915
+38 39 #UTIL: 510635, #minPer: 1.0, #maxPer: 180.0, #avgPer: 8.521360912429925
+38 #UTIL: 597870, #minPer: 1.0, #maxPer: 153.0, #avgPer: 5.6524972751170095
